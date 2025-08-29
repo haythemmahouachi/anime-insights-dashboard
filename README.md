@@ -26,7 +26,7 @@ The dashboard includes the following indicators:
 - Normalization of genres (splitting and exploding into unique rows).
 - Creation of a lookup table (`genre_lookup`).
 
-The cleaning script can be found in [`clean_anime.py`](clean_anime_data.py).
+The cleaning script can be found in [`clean_anime.py`](clean_anime.py).
 
 ### 2. Data Modeling
 - Creation of derived tables (`anime_genres`, `genre_lookup`, `anime_genre_split`).
