@@ -1,3 +1,8 @@
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/5521c681-8c60-425e-949d-2cdf0ac95fcf" />
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/768e2c5f-078b-4ffd-9ec9-5796cc65f3ce" />
+
+
+
 # English
 # 🎌 Anime Insights Dashboard
 
